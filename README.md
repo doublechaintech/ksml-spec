@@ -1,2 +1,9 @@
-# ksml-spec
-A modeling language for human beings to build large system.
+# KSML (Knowledge Specification Modeling Language) 
+
+## Challenge
+
+A modeling language for human beings to build large system with modern technologies.
+
+
+
+

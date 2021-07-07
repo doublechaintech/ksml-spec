@@ -2,7 +2,7 @@
 
 ## Challenge
 
-A modeling language for human beings to build large system with modern technologies.
+A modeling language for human beings to build large systems with modern technologies.
 
 
 
